@@ -6,6 +6,6 @@ This repository contains my solutions for the CodeX Techno Internship
 
 | # |     Project Title  |                             Description                              | 
 |---| -------------------| ---------------------------------------------------------------------|
-| 1 | Sales Data Analysis| A linear regression model to predict sales based on advertising spend.
+| 1 | Sales Prediction Analysis| A linear regression model to predict sales based on advertising spend.
 |---| N/A 
 |---| N/A
