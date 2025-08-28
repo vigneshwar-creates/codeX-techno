@@ -8,4 +8,4 @@ This repository contains my solutions for the CodeX Techno Internship
 |---|---------------------------|------------------------------------------------------------------------|
 | 1 | Sales Prediction Analysis | A linear regression model to predict sales based on advertising spend. |
 | 2 | Spam Detection Analysis   | A Naive Bayes classifier to detect spam SMS messages.                  |
-|---| N/A                       | N/A                                                                    |
+| 3 | Unemployment-Rate         | An exploratory data analysis of unemployment rates in India            |
