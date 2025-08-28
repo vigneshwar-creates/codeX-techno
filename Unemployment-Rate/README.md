@@ -1,6 +1,6 @@
-# Sales-Prediction-Analysis
+# Unemployment-Rate
 
-This project aims to understand the unemployment rate in India during the covid time.
+This project aims to understand the unemployment rate in India during the pandemic.
 
 # Project Overview
 The goal of the project is to provide insights and show all affected states.
